@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/tree.dir/tree_stack.c.o CMakeFiles/tree.dir/stack.c.o CMakeFiles/tree.dir/tree.c.o -o tree 
